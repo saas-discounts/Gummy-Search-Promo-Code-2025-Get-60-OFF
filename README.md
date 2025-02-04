@@ -12,7 +12,7 @@ In the dynamic world of social listening and market research, AI-powered tools h
 
 ## What is Gummy Search?
 
-![Gummy Search](https://miro.medium.com/v2/resize:fit:640/format:webp/1*55526mkXh-Us0ZIAmqtB7A.png)
+![Gummy Search](https://gummysearch.com/static/social-share-image-5557651f4c83cad77842de56d8963bb6.png)
 
 **Gummy Search** is an AI-driven tool designed to help users uncover valuable insights on Reddit. Whether you’re a marketer performing audience research, a startup founder looking for product feedback, or a content creator wanting to engage with new communities, Gummy Search offers a variety of features to streamline your search and analysis.
 
